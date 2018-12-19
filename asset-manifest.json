@@ -1,13 +1,13 @@
 {
   "main.css": "/rmdbmovie/static/css/main.8b6711e6.chunk.css",
-  "main.js": "/rmdbmovie/static/js/main.e53c13d6.chunk.js",
-  "main.js.map": "/rmdbmovie/static/js/main.e53c13d6.chunk.js.map",
+  "main.js": "/rmdbmovie/static/js/main.7271d7e5.chunk.js",
+  "main.js.map": "/rmdbmovie/static/js/main.7271d7e5.chunk.js.map",
   "static/js/1.7de24675.chunk.js": "/rmdbmovie/static/js/1.7de24675.chunk.js",
   "static/js/1.7de24675.chunk.js.map": "/rmdbmovie/static/js/1.7de24675.chunk.js.map",
   "runtime~main.js": "/rmdbmovie/static/js/runtime~main.3bce71fc.js",
   "runtime~main.js.map": "/rmdbmovie/static/js/runtime~main.3bce71fc.js.map",
   "static/css/main.8b6711e6.chunk.css.map": "/rmdbmovie/static/css/main.8b6711e6.chunk.css.map",
   "index.html": "/rmdbmovie/index.html",
-  "precache-manifest.57c074aa5e3e25821ea0eb3014b491b2.js": "/rmdbmovie/precache-manifest.57c074aa5e3e25821ea0eb3014b491b2.js",
+  "precache-manifest.e78ae2823d9e5f89946621b1cae36d2a.js": "/rmdbmovie/precache-manifest.e78ae2823d9e5f89946621b1cae36d2a.js",
   "service-worker.js": "/rmdbmovie/service-worker.js"
 }
