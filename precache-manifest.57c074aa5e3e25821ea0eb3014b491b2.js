@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/rmdbmovie/static/js/runtime~main.3bce71fc.js"
   },
   {
-    "revision": "ca146537203d411b3340",
-    "url": "/rmdbmovie/static/js/main.ca146537.chunk.js"
+    "revision": "e53c13d67387f5811360",
+    "url": "/rmdbmovie/static/js/main.e53c13d6.chunk.js"
   },
   {
     "revision": "7de24675dea8434041ff",
     "url": "/rmdbmovie/static/js/1.7de24675.chunk.js"
   },
   {
-    "revision": "ca146537203d411b3340",
+    "revision": "e53c13d67387f5811360",
     "url": "/rmdbmovie/static/css/main.8b6711e6.chunk.css"
   },
   {
-    "revision": "f849cead820b279a321f5e247569c9bb",
+    "revision": "a90c3ed9844af83e334410bc2210fb13",
     "url": "/rmdbmovie/index.html"
   }
 ];
